@@ -1,4 +1,2 @@
-hi this is 1.txt
-
-
-ui
+this is 1.txt file
+THIS is 1

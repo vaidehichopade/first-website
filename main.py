@@ -1,7 +1,6 @@
 import os
-
+# this is used to get directories
 print(os.listdir())
 
-print(os.get_blocking())
-
-print(os.chdir("/"))
+print(os.add_dll_directory())
+#END OF FILE
