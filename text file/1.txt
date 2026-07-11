@@ -1,1 +1,2 @@
 this is 1.txt file
+THIS is 1
